@@ -1,0 +1,1 @@
+This was my take at the fourth programming exercise presented to us students by the Inteli College. It is a simple game where you dash on enemies to kill them, but, if they hit you, you take damage and may die. I really tried my best to make this something to be proud of.
